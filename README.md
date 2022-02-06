@@ -1,1 +1,3 @@
 # DjangoAcquaintance
+
+login .../login
